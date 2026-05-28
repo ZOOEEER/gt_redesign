@@ -1562,6 +1562,16 @@ ax_bottom = fig.add_subplot(gs[1, 0], sharex=ax_top)
 ax_annot = fig.add_subplot(gs[2, 0], sharex=ax_top)
 
 x = np.arange(len(plot_df))
+raw_point_df = system_residue_avg_df.loc[
+    system_residue_avg_df["project_residue_id"].isin(plot_df["project_residue_id"])
+].copy()
+raw_point_df["x_base"] = raw_point_df["project_residue_id"].map(
+    dict(zip(plot_df["project_residue_id"], x))
+)
+raw_point_df["point_index"] = raw_point_df.groupby("project_residue_id").cumcount()
+raw_point_df["point_count"] = raw_point_df.groupby("project_residue_id")["project_residue_id"].transform("count")
+raw_point_df["x_plot"] = raw_point_df["x_base"] + (raw_point_df["point_index"] - (raw_point_df["point_count"] - 1) / 2) * 0.12
+
 highlight_mask = plot_df["highlight"].values
 count_colors = np.where(highlight_mask, "#5B5B5B", "#BEBEBE")
 avg_colors = np.where(highlight_mask, "#1E9EFF", "#8DCDFE")
@@ -1575,6 +1585,15 @@ ax_bottom.bar(
     edgecolor="black",
     linewidth=0.4,
     error_kw={"ecolor": "black", "elinewidth": 0.6, "capsize": 2, "capthick": 0.6},
+)
+ax_bottom.scatter(
+    raw_point_df["x_plot"],
+    raw_point_df["avg_dataset_value"],
+    s=22,
+    facecolors="white",
+    edgecolors="#333333",
+    linewidths=0.6,
+    zorder=4,
 )
 
 ax_top.set_ylabel("Count", fontsize=LABEL_SIZE)
