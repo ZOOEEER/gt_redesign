@@ -1,0 +1,51 @@
+﻿project_residue_id,aligned_residue_number,reference_residue_name,label,tags,count_value,avg_value,avg_sd,total_energy,is_conserved,is_first_shell,is_second_shell,is_selected_union
+Chain 0::11,11,VAL,VAL11,second shell | Buried,4.0,-0.05410084734999997,0.020334739865593116,-0.05410084734999997,False,False,True,True
+Chain 0::12,12,MET,MET12,conserved | Buried,3.0,-0.015793729333333336,0.011532938608168402,-0.015793729333333336,True,False,False,True
+Chain 0::13,13,ALA,ALA13,second shell | conserved | Buried,4.0,-0.0908188021166666,0.05612550592801121,-0.0908188021166666,True,False,True,True
+Chain 0::14,14,HIS,HIS14,second shell | conserved | Mixed_exposure,3.0,-0.00764933106666665,0.01506410651514117,-0.00764933106666665,True,False,True,True
+Chain 0::15,15,GLY,GLY15,first shell | conserved | Buried,4.0,-0.03308099368333331,0.015500606857628718,-0.03308099368333331,True,True,False,True
+Chain 0::16,16,HISD,HIS16,first shell | conserved | Buried,4.0,-0.021231943350000004,0.21006637215921584,-0.021231943350000004,True,True,False,True
+Chain 0::17,17,MET,MET17,second shell | conserved | Buried,1.0,-0.007732,0.0,-0.007732,True,False,True,True
+Chain 0::80,80,ARG,ARG80,conserved | Mixed_exposure,1.0,-0.0627750199999988,0.0,-0.0627750199999988,True,False,False,True
+Chain 0::81,81,LEU,LEU81,second shell | conserved | Mixed_exposure,4.0,-1.0293084808,0.4263225304991795,-1.0293084808,True,False,True,True
+Chain 0::82,82,ASP,ASP82,second shell | conserved | Mixed_exposure,4.0,-0.2358417853999999,0.2612239735136844,-0.2358417853999999,True,False,True,True
+Chain 0::83,83,GLN,GLN83,Intermediate,1.0,-0.1145044072,0.0,-0.1145044072,False,False,False,False
+Chain 0::84,84,VAL,VAL84,Buried,4.0,-0.2479950105999998,0.15234194723928282,-0.2479950105999998,False,False,False,False
+Chain 0::85,85,PRO,PRO85,Mixed_exposure,1.0,-0.0307630536,0.0,-0.0307630536,False,False,False,False
+Chain 0::87,87,ASP,ASP87,second shell | Intermediate,2.0,-0.7742937730000002,1.1283727027212662,-0.7742937730000002,False,False,True,True
+Chain 0::90,90,LEU,LEU90,second shell | Buried,4.0,-0.8412656266,0.26692469776523886,-0.8412656266,False,False,True,True
+Chain 0::93,93,PHE,PHE93,conserved | Buried,1.0,-0.0627153448,0.0,-0.0627153448,True,False,False,True
+Chain 0::94,94,PHE,PHE94,second shell | Buried,4.0,-0.2479832765833333,0.13415123150553382,-0.2479832765833333,False,False,True,True
+Chain 0::119,119,ASP,ASP119,second shell | conserved | Buried,3.0,0.08281990853333314,0.04102394213187599,0.08281990853333314,True,False,True,True
+Chain 0::120,120,MET,MET120,second shell | conserved | Mixed_exposure,4.0,-0.09486361939999992,0.10690640332133136,-0.09486361939999992,True,False,True,True
+Chain 0::121,121,PHE,PHE121,second shell | conserved | Mixed_exposure,4.0,-0.5327950177833334,0.218407778232583,-0.5327950177833334,True,False,True,True
+Chain 0::139,139,PHE,PHE139,second shell | conserved | Buried,1.0,0.006991,0.0,0.006991,True,False,True,True
+Chain 0::140,140,HIS,HIS140,second shell | conserved | Buried,4.0,0.011965720099999973,0.009150864593208706,0.011965720099999973,True,False,True,True
+Chain 0::141,141,GLY,GLY141,second shell | conserved | Buried,3.0,0.007326034266666673,0.009115098875302525,0.007326034266666673,True,False,True,True
+Chain 0::142,142,THR,THR142,second shell | conserved | Buried,4.0,-0.020533815533333326,0.01130559052698605,-0.020533815533333326,True,False,True,True
+Chain 0::150,150,GLU,GLU150,second shell | Mixed_exposure,1.0,0.0543156992000002,0.0,0.0543156992000002,False,False,True,True
+Chain 0::186,186,SER,SER186,second shell | Buried,4.0,-0.05075228759999996,0.06940141202914918,-0.05075228759999996,False,False,True,True
+Chain 0::187,187,PRO,PRO187,second shell | Intermediate,3.0,-0.03321231639999992,0.03045424796455363,-0.03321231639999992,False,False,True,True
+Chain 0::188,188,PHE,PHE188,second shell | Mixed_exposure,4.0,-0.5979048008166666,0.5664089364728143,-0.5979048008166666,False,False,True,True
+Chain 0::197,197,MET,MET197,second shell | Buried,4.0,-0.5673461288166666,0.230590176609534,-0.5673461288166666,False,False,True,True
+Chain 0::200,200,LEU,LEU200,Mixed_exposure,2.0,-0.153563632,0.08988449282489944,-0.153563632,False,False,False,False
+Chain 0::201,201,ILE,ILE201,second shell | Mixed_exposure,4.0,-0.3462526451833333,0.27736505864752603,-0.3462526451833333,False,False,True,True
+Chain 0::204,204,MET,MET204,Buried,3.0,-0.10460614346666659,0.10194054871687136,-0.10460614346666659,False,False,False,False
+Chain 0::205,205,ARG,ARG205,Mixed_exposure,2.0,0.00027783660000060134,0.023694448201848687,0.00027783660000060134,False,False,False,False
+Chain 0::287,287,SER,SER287,first shell | conserved | Mixed_exposure,3.0,-0.03378872071111107,0.026848266267891968,-0.03378872071111107,True,True,False,True
+Chain 0::288,288,VAL,VAL288,second shell | conserved | Mixed_exposure,4.0,-0.45711099944999994,0.27875896903011704,-0.45711099944999994,True,False,True,True
+Chain 0::289,289,ALA,ALA289,second shell | conserved | Buried,1.0,-0.0062116816000001,0.0,-0.0062116816000001,True,False,True,True
+Chain 0::290,290,ARG,ARG290,Mixed_exposure,1.0,-0.2350946272000004,0.0,-0.2350946272000004,False,False,False,False
+Chain 0::315,315,ARG,ARG315,second shell | conserved | Mixed_exposure,1.0,-0.0278251719999997,0.0,-0.0278251719999997,True,False,True,True
+Chain 0::363,363,TRP,TRP363,first shell | conserved | Buried,1.0,0.0041960000000002,0.0,0.0041960000000002,True,True,False,True
+Chain 0::364,364,ASN,ASN364,first shell | conserved | Buried,3.0,-0.04707400000000014,0.03934343684784036,-0.04707400000000014,True,True,False,True
+Chain 0::381,381,VAL,VAL381,second shell | conserved | Buried,1.0,-0.1166714696,0.0,-0.1166714696,True,False,True,True
+Chain 0::382,382,PHE,PHE382,second shell | conserved | Mixed_exposure,4.0,-0.7303725881500001,0.1539192455336579,-0.7303725881500001,True,False,True,True
+Chain 0::383,383,ALA,ALA383,second shell | conserved | Mixed_exposure,4.0,-0.1860332286,0.1015203714673231,-0.1860332286,True,False,True,True
+Chain 0::384,384,GLU,GLU384,first shell | conserved | Mixed_exposure,4.0,-0.22860659545000006,0.22730208932229023,-0.22860659545000006,True,True,False,True
+Chain 0::385,385,GLN,GLN385,first shell | conserved | Buried,4.0,-0.021043696266666502,0.02239094766518097,-0.021043696266666502,True,True,False,True
+Chain 0::388,388,ASN,ASN388,second shell | conserved | Buried,1.0,0.0026809999999998,0.0,0.0026809999999998,True,False,True,True
+Chain 0::407,407,TRP,TRP407,second shell | Mixed_exposure,4.0,-0.2510204741833333,0.19067147102286863,-0.2510204741833333,False,False,True,True
+Chain 0::408,408,ARG,ARG408,Mixed_exposure,3.0,0.0045723941333333665,0.015369572631105378,0.0045723941333333665,False,False,False,False
+Chain 0::409,409,ARG,ARG409,second shell | Mixed_exposure,4.0,-0.6989379121333333,0.4173617184124462,-0.6989379121333333,False,False,True,True
+Chain 0::410,410,TYR,TYR410,Mixed_exposure,2.0,-1.0418600931999995,0.976996277762671,-1.0418600931999995,False,False,False,False

@@ -1,0 +1,2 @@
+metric,group_a,group_b,n_a,n_b,mean_a,std_a,mean_b,std_b,test,p_value,significance,filter_rule
+Rg,wt,sdu6,4,4,2.2388466932785613,0.015555623120627866,2.2341070833935808,0.002771698842765485,Welch t-test on replicate means,0.5885070500091147,ns,values <= 2.30 only; frame-wise values plotted; significance tested on replicate-level means

@@ -1,0 +1,56 @@
+﻿system_group,project_residue_id,aligned_residue_number,label,reference_residue_name,tags,dataset_count,avg_dataset_value,any_atom_to_any_atom_min_angstrom,is_conserved,is_first_shell,is_second_shell,selection_group
+sdu6,Chain 0::14,14,PHE14,PHE,Second-shell | conserved | Buried,4,-0.606566353,3.605302274,TRUE,FALSE,TRUE,Fixed
+sdu6,Chain 0::15,15,PRO15,PRO,conserved | Buried,2,-0.053824524,6.349526644,TRUE,FALSE,FALSE,Fixed
+sdu6,Chain 0::16,16,GLY16,GLY,Second-shell | Mixed_exposure,4,-0.163318861,4.390057325,FALSE,FALSE,TRUE,Fixed
+sdu6,Chain 0::17,17,GLN17,GLN,Second-shell | conserved | Buried,3,-0.046247926,5.584101081,TRUE,FALSE,TRUE,Fixed
+sdu6,Chain 0::18,18,GLY18,GLY,First-shell | conserved | Buried,3,-0.049294913,5.454989076,TRUE,TRUE,FALSE,Fixed
+sdu6,Chain 0::19,19,HIS19,HISD,Second-shell | conserved | Buried,4,-0.336169795,3.466843367,TRUE,FALSE,TRUE,Fixed
+sdu6,Chain 0::86,86,LEU86,LEU,Second-shell | Mixed_exposure,4,-1.31788756,3.34046483,FALSE,FALSE,TRUE,Fixed
+sdu6,Chain 0::122,122,PRO122,PRO,Second-shell | conserved | Buried,2,-0.03594143,7.082613707,TRUE,FALSE,TRUE,Fixed
+sdu6,Chain 0::123,123,PHE123,PHE,Second-shell | conserved | Buried,4,-1.101110063,3.33727479,TRUE,FALSE,TRUE,Fixed
+sdu6,Chain 0::143,143,VAL143,VAL,First-shell | conserved | Buried,3,-0.014343015,5.867314339,TRUE,TRUE,FALSE,Fixed
+sdu6,Chain 0::144,144,GLN144,GLN,Second-shell | conserved | Buried,3,-0.041177323,5.870950818,TRUE,FALSE,TRUE,Fixed
+sdu6,Chain 0::188,188,PHE188,PHE,Second-shell | conserved | Buried,4,-0.393396575,3.907568455,TRUE,FALSE,TRUE,Fixed
+sdu6,Chain 0::195,195,TYR195,TYR,Second-shell | Mixed_exposure,3,-0.058998602,9.028054476,FALSE,FALSE,TRUE,Fixed
+sdu6,Chain 0::198,198,LEU198,LEU,Second-shell | Mixed_exposure,4,-0.707782237,4.280715883,FALSE,FALSE,TRUE,Fixed
+sdu6,Chain 0::201,201,ALA201,ALA,Second-shell | Mixed_exposure,1,-0.002877745,5.168828368,FALSE,FALSE,TRUE,Fixed
+sdu6,Chain 0::202,202,ILE202,ILE,Second-shell | Buried,3,-0.282074335,4.960420132,FALSE,FALSE,TRUE,Fixed
+sdu6,Chain 0::258,258,PHE258,PHE,Second-shell | conserved | Mixed_exposure,1,-0.010651,8.363842964,TRUE,FALSE,TRUE,Fixed
+sdu6,Chain 0::283,283,SER283,SER,Second-shell | conserved | Buried,3,-0.041253107,5.566776991,TRUE,FALSE,TRUE,Fixed
+sdu6,Chain 0::284,284,VAL284,VAL,First-shell | Mixed_exposure,4,-0.89735712,4.293971956,FALSE,TRUE,FALSE,Fixed
+sdu6,Chain 0::285,285,VAL285,VAL,Second-shell | conserved | Buried,1,-0.058038958,7.825872302,TRUE,FALSE,TRUE,Fixed
+sdu6,Chain 0::286,286,TYR286,TYR,Intermediate,1,-0.012652,10.57605147,FALSE,FALSE,FALSE,Variable
+sdu6,Chain 0::362,362,ASN362,ASN,First-shell | conserved | Buried,1,-0.053603139,6.769502759,TRUE,TRUE,FALSE,Fixed
+sdu6,Chain 0::380,380,TRP380,TRP,Second-shell | conserved | Mixed_exposure,4,-0.788785674,3.342725039,TRUE,FALSE,TRUE,Fixed
+sdu6,Chain 0::381,381,GLY381,GLY,Second-shell | conserved | Mixed_exposure,4,-0.039489601,5.707018971,TRUE,FALSE,TRUE,Fixed
+sdu6,Chain 0::382,382,ASP382,ASP,First-shell | conserved | Buried,3,0.237994387,6.179481745,TRUE,TRUE,FALSE,Fixed
+sdu6,Chain 0::383,383,GLN383,GLN,First-shell | conserved | Buried,2,-0.022272901,7.940303087,TRUE,TRUE,FALSE,Fixed
+sdu6,Chain 0::404,404,GLU404,GLU,Mixed_exposure,1,0.011339,12.1709764,FALSE,FALSE,FALSE,Variable
+wt,Chain 0::14,14,PHE14,PHE,Second-shell | conserved | Buried,4,-0.229745817,3.605302274,TRUE,FALSE,TRUE,Fixed
+wt,Chain 0::15,15,PRO15,PRO,conserved | Buried,2,-0.038224451,6.349526644,TRUE,FALSE,FALSE,Fixed
+wt,Chain 0::16,16,GLY16,GLY,Second-shell | Mixed_exposure,4,-0.004003568,4.390057325,FALSE,FALSE,TRUE,Fixed
+wt,Chain 0::17,17,GLN17,GLN,Second-shell | conserved | Buried,1,-0.008764571,5.584101081,TRUE,FALSE,TRUE,Fixed
+wt,Chain 0::18,18,GLY18,GLY,First-shell | conserved | Buried,3,-0.014948026,5.454989076,TRUE,TRUE,FALSE,Fixed
+wt,Chain 0::19,19,HIS19,HISD,Second-shell | conserved | Buried,4,0.194072495,3.466843367,TRUE,FALSE,TRUE,Fixed
+wt,Chain 0::83,83,LEU83,LEU,Mixed_exposure,1,0.00114,9.019449949,FALSE,FALSE,FALSE,Variable
+wt,Chain 0::84,84,LEU84,LEU,Mixed_exposure,2,-0.103045583,8.421816826,FALSE,FALSE,FALSE,Variable
+wt,Chain 0::85,85,ASP85,ASP,conserved | Intermediate,1,0.015538,8.029882908,TRUE,FALSE,FALSE,Fixed
+wt,Chain 0::86,86,LEU86,LEU,Second-shell | Mixed_exposure,4,-0.602692623,3.34046483,FALSE,FALSE,TRUE,Fixed
+wt,Chain 0::89,89,TYR89,TYR,Buried,2,-0.063310818,7.975007892,FALSE,FALSE,FALSE,Variable
+wt,Chain 0::90,90,LEU90,LEU,Second-shell | Buried,2,-0.025855322,7.716203928,FALSE,FALSE,TRUE,Fixed
+wt,Chain 0::122,122,PRO122,PRO,Second-shell | conserved | Buried,2,-0.017243294,7.082613707,TRUE,FALSE,TRUE,Fixed
+wt,Chain 0::123,123,PHE123,PHE,Second-shell | conserved | Buried,4,-0.589217597,3.33727479,TRUE,FALSE,TRUE,Fixed
+wt,Chain 0::143,143,VAL143,VAL,First-shell | conserved | Buried,2,-0.003683185,5.867314339,TRUE,TRUE,FALSE,Fixed
+wt,Chain 0::144,144,GLN144,GLN,Second-shell | conserved | Buried,4,-0.077401329,5.870950818,TRUE,FALSE,TRUE,Fixed
+wt,Chain 0::152,152,TYR152,TYR,Second-shell | conserved | Buried,2,-0.007718257,8.589699864,TRUE,FALSE,TRUE,Fixed
+wt,Chain 0::188,188,PHE188,PHE,Second-shell | conserved | Buried,4,-0.637070872,3.907568455,TRUE,FALSE,TRUE,Fixed
+wt,Chain 0::195,195,TYR195,TYR,Second-shell | Mixed_exposure,3,-0.829954432,9.028054476,FALSE,FALSE,TRUE,Fixed
+wt,Chain 0::198,198,LEU198,LEU,Second-shell | Mixed_exposure,4,-0.994857068,4.280715883,FALSE,FALSE,TRUE,Fixed
+wt,Chain 0::201,201,ALA201,ALA,Second-shell | Mixed_exposure,1,-0.016667305,5.168828368,FALSE,FALSE,TRUE,Fixed
+wt,Chain 0::202,202,ILE202,ILE,Second-shell | Buried,3,-0.041670564,4.960420132,FALSE,FALSE,TRUE,Fixed
+wt,Chain 0::283,283,SER283,SER,Second-shell | conserved | Buried,1,-0.01515313,5.566776991,TRUE,FALSE,TRUE,Fixed
+wt,Chain 0::284,284,VAL284,VAL,First-shell | Mixed_exposure,4,-0.654000651,4.293971956,FALSE,TRUE,FALSE,Fixed
+wt,Chain 0::380,380,TRP380,TRP,Second-shell | conserved | Mixed_exposure,4,-0.714186081,3.342725039,TRUE,FALSE,TRUE,Fixed
+wt,Chain 0::381,381,GLY381,GLY,Second-shell | conserved | Mixed_exposure,3,-0.058465239,5.707018971,TRUE,FALSE,TRUE,Fixed
+wt,Chain 0::382,382,ASP382,ASP,First-shell | conserved | Buried,4,-1.634962035,6.179481745,TRUE,TRUE,FALSE,Fixed
+wt,Chain 0::383,383,GLN383,GLN,First-shell | conserved | Buried,4,-0.198849107,7.940303087,TRUE,TRUE,FALSE,Fixed

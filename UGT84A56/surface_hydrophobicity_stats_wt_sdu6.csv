@@ -1,0 +1,2 @@
+view_mode,reference_dataset_id,reference_dataset_label,experiment_dataset_id,experiment_dataset_label,x_metric_id,x_metric_label,y_metric_id,y_metric_label,spearman_rho,p_value,q1,q2,q3,q4,quadrant_total,consistency_ratio,odds_ratio
+delta_vs_wt,wt-homo-2,wt-homo-2 (wt-homo-2),sdu6-homo-4,sdu6-homo-4 (sdu6-homo-4),aa_scale:kyte_doolittle,Kyte-Doolittle Score,sasa_relative,Relative SASA,-0.14446971863198005,0.03436500968873335,18,27,25,27,97,0.5567010309278351,1.255813953488372

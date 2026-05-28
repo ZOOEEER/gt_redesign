@@ -1,0 +1,4 @@
+metric,group_a,group_b,n_a,n_b,mean_a,std_a,mean_b,std_b,test,p_value,significance,filter_rule
+Rg,wt,sdt3,4,4,2.212840026244895,0.005231784480516543,2.232340992393071,0.010321673795744966,Welch t-test on replicate means,0.023823493891973913,*,replicate-level means; frame-wise values shown only for visualization
+Rg,wt,sdt5,4,4,2.212840026244895,0.005231784480516543,2.227282327164918,0.0007804675913714812,Welch t-test on replicate means,0.010763342120323266,*,replicate-level means; frame-wise values shown only for visualization
+Rg,wt,sdt8,4,4,2.212840026244895,0.005231784480516543,2.2367374827195228,0.008760963697931485,Welch t-test on replicate means,0.005704619417968015,**,replicate-level means; frame-wise values shown only for visualization

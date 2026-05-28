@@ -1,0 +1,4 @@
+﻿group,definition,residue_count,signed_total_energy,signed_energy_ratio,absolute_total_energy,absolute_energy_ratio
+selected_union,conserved OR first shell OR second shell,28,-7.1152605376333335,0.9771307051963891,7.146336537633334,0.9739040616936795
+other_residues,NOT(conserved OR first shell OR second shell),5,-0.16652940080000042,0.02286929480361102,0.19148740079999924,0.026095938306320676
+all_residues,all residues included in plot,33,-7.281789938433333,1.0,7.337823938433332,1.0

@@ -1,0 +1,2 @@
+metric,group_a,group_b,n_a,n_b,mean_a,std_a,mean_b,std_b,test,p_value,significance,filter_rule
+Total SASA,wt,sdu6,4,4,208.9137450990099,4.914364755741327,207.64026856260625,2.2626427410883756,Welch t-test on replicate means,0.6611312943289023,ns,190 <= values <= 230; frame-wise values plotted; significance tested on replicate-level means

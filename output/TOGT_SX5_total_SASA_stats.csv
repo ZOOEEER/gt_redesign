@@ -1,0 +1,4 @@
+metric,group_a,group_b,n_a,n_b,mean_a,std_a,mean_b,std_b,test,p_value,significance,filter_rule
+Total SASA,wt,sdt3,4,4,205.99279059405944,2.051861621515149,210.02597920792078,2.251057215236852,Welch t-test on replicate means,0.0384254822479819,*,values >= 195 only; frame-wise values plotted; significance tested on replicate-level means
+Total SASA,wt,sdt5,4,4,205.99279059405944,2.051861621515149,208.34746576732672,0.4539085721624779,Welch t-test on replicate means,0.10293470542176573,ns,values >= 195 only; frame-wise values plotted; significance tested on replicate-level means
+Total SASA,wt,sdt8,4,4,205.99279059405944,2.051861621515149,210.4140727891089,2.063670197026437,Welch t-test on replicate means,0.022846530925685136,*,values >= 195 only; frame-wise values plotted; significance tested on replicate-level means

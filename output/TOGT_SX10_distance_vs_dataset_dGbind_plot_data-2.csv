@@ -1,0 +1,145 @@
+﻿system_group,project_residue_id,aligned_residue_number,label,reference_residue_name,tags,dataset_count,avg_dataset_value,any_atom_to_any_atom_min_angstrom,is_conserved,is_first_shell,is_second_shell,selection_group
+sdt3,Chain 0::11,11,VAL11,VAL,second shell | Buried,4,-0.047755036,3.984510303,FALSE,FALSE,TRUE,Fixed
+sdt3,Chain 0::12,12,MET12,MET,conserved | Buried,2,-0.026075,6.465401053,TRUE,FALSE,FALSE,Fixed
+sdt3,Chain 0::13,13,ALA13,ALA,second shell | conserved | Buried,4,-0.169962012,3.889295459,TRUE,FALSE,TRUE,Fixed
+sdt3,Chain 0::14,14,HIS14,HIS,second shell | conserved | Mixed_exposure,2,-0.023072389,7.034175396,TRUE,FALSE,TRUE,Fixed
+sdt3,Chain 0::15,15,GLY15,GLY,first shell | conserved | Buried,4,-0.044475028,6.029810905,TRUE,TRUE,FALSE,Fixed
+sdt3,Chain 0::16,16,HIS16,HISD,first shell | conserved | Buried,4,0.119732406,2.731097937,TRUE,TRUE,FALSE,Fixed
+sdt3,Chain 0::80,80,ARG80,ARG,conserved | Mixed_exposure,1,-0.06277502,8.24467063,TRUE,FALSE,FALSE,Fixed
+sdt3,Chain 0::81,81,LEU81,LEU,second shell | conserved | Mixed_exposure,4,-1.634071303,3.6163643,TRUE,FALSE,TRUE,Fixed
+sdt3,Chain 0::82,82,ASP82,ASP,second shell | conserved | Mixed_exposure,1,-0.616291108,8.077999949,TRUE,FALSE,TRUE,Fixed
+sdt3,Chain 0::83,83,GLN83,GLN,Intermediate,1,-0.114504407,10.42079687,FALSE,FALSE,FALSE,Variable
+sdt3,Chain 0::84,84,VAL84,VAL,Buried,1,-0.130901823,8.189170361,FALSE,FALSE,FALSE,Variable
+sdt3,Chain 0::90,90,LEU90,LEU,second shell | Buried,2,-0.819726854,3.929452896,FALSE,FALSE,TRUE,Fixed
+sdt3,Chain 0::94,94,PHE94,PHE,second shell | Buried,1,-0.445635092,4.829996526,FALSE,FALSE,TRUE,Fixed
+sdt3,Chain 0::120,120,MET120,MET,second shell | conserved | Mixed_exposure,4,-0.072524123,5.679727197,TRUE,FALSE,TRUE,Fixed
+sdt3,Chain 0::121,121,PHE121,PHE,second shell | conserved | Mixed_exposure,3,-0.438844363,3.566748202,TRUE,FALSE,TRUE,Fixed
+sdt3,Chain 0::140,140,HIS140,HIS,second shell | conserved | Buried,1,0.000215375,7.683265805,TRUE,FALSE,TRUE,Fixed
+sdt3,Chain 0::141,141,GLY141,GLY,second shell | conserved | Buried,1,-0.002199538,7.799422145,TRUE,FALSE,TRUE,Fixed
+sdt3,Chain 0::142,142,THR142,THR,second shell | conserved | Buried,2,-0.034595823,9.557927251,TRUE,FALSE,TRUE,Fixed
+sdt3,Chain 0::186,186,SER186,SER,second shell | Buried,2,-0.000669832,7.063407898,FALSE,FALSE,TRUE,Fixed
+sdt3,Chain 0::187,187,PRO187,PRO,second shell | Intermediate,1,-0.00432,7.561519742,FALSE,FALSE,TRUE,Fixed
+sdt3,Chain 0::188,188,PHE188,PHE,second shell | Mixed_exposure,3,-0.16170689,4.089509845,FALSE,FALSE,TRUE,Fixed
+sdt3,Chain 0::197,197,MET197,MET,second shell | Buried,2,-0.444604103,4.307817817,FALSE,FALSE,TRUE,Fixed
+sdt3,Chain 0::200,200,LEU200,LEU,Mixed_exposure,1,-0.217121566,7.218908668,FALSE,FALSE,FALSE,Variable
+sdt3,Chain 0::201,201,ILE201,ILE,second shell | Mixed_exposure,3,-0.13815067,7.1808815,FALSE,FALSE,TRUE,Fixed
+sdt3,Chain 0::204,204,MET204,MET,Buried,1,-0.210162876,8.206570745,FALSE,FALSE,FALSE,Variable
+sdt3,Chain 0::287,287,SER287,SER,first shell | conserved | Mixed_exposure,3,-0.027910343,6.421823502,TRUE,TRUE,FALSE,Fixed
+sdt3,Chain 0::288,288,VAL288,VAL,second shell | conserved | Mixed_exposure,4,-0.828921492,3.738075793,TRUE,FALSE,TRUE,Fixed
+sdt3,Chain 0::290,290,ARG290,ARG,Mixed_exposure,1,-0.235094627,8.286826015,FALSE,FALSE,FALSE,Variable
+sdt3,Chain 0::315,315,ARG315,ARG,second shell | conserved | Mixed_exposure,1,-0.027825172,10.23934603,TRUE,FALSE,TRUE,Fixed
+sdt3,Chain 0::364,364,ASN364,ASN,first shell | conserved | Buried,1,-0.03328,8.545893431,TRUE,TRUE,FALSE,Fixed
+sdt3,Chain 0::382,382,PHE382,PHE,second shell | conserved | Mixed_exposure,4,-0.866612916,3.183599114,TRUE,FALSE,TRUE,Fixed
+sdt3,Chain 0::383,383,ALA383,ALA,second shell | conserved | Mixed_exposure,4,-0.145122807,5.5100739,TRUE,FALSE,TRUE,Fixed
+sdt3,Chain 0::384,384,GLU384,GLU,first shell | conserved | Mixed_exposure,4,-0.327538574,8.106405139,TRUE,TRUE,FALSE,Fixed
+sdt3,Chain 0::385,385,GLN385,GLN,first shell | conserved | Buried,3,-0.020421171,8.070291281,TRUE,TRUE,FALSE,Fixed
+sdt3,Chain 0::407,407,TRP407,TRP,second shell | Mixed_exposure,3,-0.104815749,3.720268905,FALSE,FALSE,TRUE,Fixed
+sdt3,Chain 0::408,408,ARG408,ARG,Mixed_exposure,1,0.01896,6.874670386,FALSE,FALSE,FALSE,Variable
+sdt3,Chain 0::409,409,ARG409,ARG,second shell | Mixed_exposure,3,-0.145076757,4.428024292,FALSE,FALSE,TRUE,Fixed
+sdt3,Chain 0::410,410,TYR410,TYR,Mixed_exposure,1,-1.732700786,8.093460798,FALSE,FALSE,FALSE,Variable
+sdt5,Chain 0::11,11,VAL11,VAL,second shell | Buried,3,-0.036626729,3.984510303,FALSE,FALSE,TRUE,Fixed
+sdt5,Chain 0::12,12,MET12,MET,conserved | Buried,1,-0.017983188,6.465401053,TRUE,FALSE,FALSE,Fixed
+sdt5,Chain 0::13,13,ALA13,ALA,second shell | conserved | Buried,4,-0.089109402,3.889295459,TRUE,FALSE,TRUE,Fixed
+sdt5,Chain 0::14,14,HIS14,HIS,second shell | conserved | Mixed_exposure,1,0.007028134,7.034175396,TRUE,FALSE,TRUE,Fixed
+sdt5,Chain 0::15,15,GLY15,GLY,first shell | conserved | Buried,3,-0.014077728,6.029810905,TRUE,TRUE,FALSE,Fixed
+sdt5,Chain 0::16,16,HIS16,HISD,first shell | conserved | Buried,4,0.016517639,2.731097937,TRUE,TRUE,FALSE,Fixed
+sdt5,Chain 0::81,81,LEU81,LEU,second shell | conserved | Mixed_exposure,4,-1.018840512,3.6163643,TRUE,FALSE,TRUE,Fixed
+sdt5,Chain 0::82,82,ASP82,ASP,second shell | conserved | Mixed_exposure,1,-0.051814954,8.077999949,TRUE,FALSE,TRUE,Fixed
+sdt5,Chain 0::84,84,VAL84,VAL,Buried,1,-0.349233422,8.189170361,FALSE,FALSE,FALSE,Variable
+sdt5,Chain 0::87,87,ASP87,ASP,second shell | Intermediate,1,0.023586217,7.334235311,FALSE,FALSE,TRUE,Fixed
+sdt5,Chain 0::90,90,LEU90,LEU,second shell | Buried,4,-1.220764934,3.929452896,FALSE,FALSE,TRUE,Fixed
+sdt5,Chain 0::93,93,PHE93,PHE,conserved | Buried,1,-0.062715345,6.010000706,TRUE,FALSE,FALSE,Fixed
+sdt5,Chain 0::94,94,PHE94,PHE,second shell | Buried,3,-0.20032145,4.829996526,FALSE,FALSE,TRUE,Fixed
+sdt5,Chain 0::119,119,ASP119,ASP,second shell | conserved | Buried,1,0.043172,6.450451612,TRUE,FALSE,TRUE,Fixed
+sdt5,Chain 0::120,120,MET120,MET,second shell | conserved | Mixed_exposure,3,-0.034763908,5.679727197,TRUE,FALSE,TRUE,Fixed
+sdt5,Chain 0::121,121,PHE121,PHE,second shell | conserved | Mixed_exposure,4,-0.55338526,3.566748202,TRUE,FALSE,TRUE,Fixed
+sdt5,Chain 0::140,140,HIS140,HIS,second shell | conserved | Buried,1,0.00932412,7.683265805,TRUE,FALSE,TRUE,Fixed
+sdt5,Chain 0::142,142,THR142,THR,second shell | conserved | Buried,1,-0.008672116,9.557927251,TRUE,FALSE,TRUE,Fixed
+sdt5,Chain 0::186,186,SER186,SER,second shell | Buried,2,-0.034781269,7.063407898,FALSE,FALSE,TRUE,Fixed
+sdt5,Chain 0::187,187,PRO187,PRO,second shell | Intermediate,2,-0.03029798,7.561519742,FALSE,FALSE,TRUE,Fixed
+sdt5,Chain 0::188,188,PHE188,PHE,second shell | Mixed_exposure,3,-0.253187035,4.089509845,FALSE,FALSE,TRUE,Fixed
+sdt5,Chain 0::197,197,MET197,MET,second shell | Buried,4,-0.343277698,4.307817817,FALSE,FALSE,TRUE,Fixed
+sdt5,Chain 0::200,200,LEU200,LEU,Mixed_exposure,2,-0.090005698,7.218908668,FALSE,FALSE,FALSE,Variable
+sdt5,Chain 0::201,201,ILE201,ILE,second shell | Mixed_exposure,1,-0.076047493,7.1808815,FALSE,FALSE,TRUE,Fixed
+sdt5,Chain 0::204,204,MET204,MET,Buried,1,-0.096941053,8.206570745,FALSE,FALSE,FALSE,Variable
+sdt5,Chain 0::287,287,SER287,SER,first shell | conserved | Mixed_exposure,1,-0.010366709,6.421823502,TRUE,TRUE,FALSE,Fixed
+sdt5,Chain 0::288,288,VAL288,VAL,second shell | conserved | Mixed_exposure,4,-0.281889067,3.738075793,TRUE,FALSE,TRUE,Fixed
+sdt5,Chain 0::289,289,ALA289,ALA,second shell | conserved | Buried,1,-0.006211682,7.106678486,TRUE,FALSE,TRUE,Fixed
+sdt5,Chain 0::382,382,PHE382,PHE,second shell | conserved | Mixed_exposure,4,-0.688420913,3.183599114,TRUE,FALSE,TRUE,Fixed
+sdt5,Chain 0::383,383,ALA383,ALA,second shell | conserved | Mixed_exposure,4,-0.17634495,5.5100739,TRUE,FALSE,TRUE,Fixed
+sdt5,Chain 0::384,384,GLU384,GLU,first shell | conserved | Mixed_exposure,3,0.11197765,8.106405139,TRUE,TRUE,FALSE,Fixed
+sdt5,Chain 0::385,385,GLN385,GLN,first shell | conserved | Buried,2,-0.007575975,8.070291281,TRUE,TRUE,FALSE,Fixed
+sdt5,Chain 0::407,407,TRP407,TRP,second shell | Mixed_exposure,4,-0.269656026,3.720268905,FALSE,FALSE,TRUE,Fixed
+sdt5,Chain 0::408,408,ARG408,ARG,Mixed_exposure,1,0.006377,6.874670386,FALSE,FALSE,FALSE,Variable
+sdt5,Chain 0::409,409,ARG409,ARG,second shell | Mixed_exposure,4,-0.727298284,4.428024292,FALSE,FALSE,TRUE,Fixed
+sdt8,Chain 0::11,11,VAL11,VAL,second shell | Buried,4,-0.048529447,3.984510303,FALSE,FALSE,TRUE,Fixed
+sdt8,Chain 0::12,12,MET12,MET,conserved | Buried,1,-0.003323,6.465401053,TRUE,FALSE,FALSE,Fixed
+sdt8,Chain 0::13,13,ALA13,ALA,second shell | conserved | Buried,4,-0.042467323,3.889295459,TRUE,FALSE,TRUE,Fixed
+sdt8,Chain 0::14,14,HIS14,HIS,second shell | conserved | Mixed_exposure,2,-0.006903739,7.034175396,TRUE,FALSE,TRUE,Fixed
+sdt8,Chain 0::15,15,GLY15,GLY,first shell | conserved | Buried,3,-0.046908286,6.029810905,TRUE,TRUE,FALSE,Fixed
+sdt8,Chain 0::16,16,HIS16,HISD,first shell | conserved | Buried,4,0.107491728,2.731097937,TRUE,TRUE,FALSE,Fixed
+sdt8,Chain 0::17,17,MET17,MET,second shell | conserved | Buried,1,-0.007732,8.233318329,TRUE,FALSE,TRUE,Fixed
+sdt8,Chain 0::81,81,LEU81,LEU,second shell | conserved | Mixed_exposure,4,-0.769656818,3.6163643,TRUE,FALSE,TRUE,Fixed
+sdt8,Chain 0::82,82,ASP82,ASP,second shell | conserved | Mixed_exposure,2,-0.196006193,8.077999949,TRUE,FALSE,TRUE,Fixed
+sdt8,Chain 0::84,84,VAL84,VAL,Buried,1,-0.406817212,8.189170361,FALSE,FALSE,FALSE,Variable
+sdt8,Chain 0::87,87,ASP87,ASP,second shell | Intermediate,2,-1.572173763,7.334235311,FALSE,FALSE,TRUE,Fixed
+sdt8,Chain 0::90,90,LEU90,LEU,second shell | Buried,4,-0.611320333,3.929452896,FALSE,FALSE,TRUE,Fixed
+sdt8,Chain 0::94,94,PHE94,PHE,second shell | Buried,2,-0.146499884,4.829996526,FALSE,FALSE,TRUE,Fixed
+sdt8,Chain 0::119,119,ASP119,ASP,second shell | conserved | Buried,1,0.080194,6.450451612,TRUE,FALSE,TRUE,Fixed
+sdt8,Chain 0::120,120,MET120,MET,second shell | conserved | Mixed_exposure,1,-0.020372814,5.679727197,TRUE,FALSE,TRUE,Fixed
+sdt8,Chain 0::121,121,PHE121,PHE,second shell | conserved | Mixed_exposure,4,-0.31338509,3.566748202,TRUE,FALSE,TRUE,Fixed
+sdt8,Chain 0::139,139,PHE139,PHE,second shell | conserved | Buried,1,0.006991,9.730664492,TRUE,FALSE,TRUE,Fixed
+sdt8,Chain 0::140,140,HIS140,HIS,second shell | conserved | Buried,2,0.018021019,7.683265805,TRUE,FALSE,TRUE,Fixed
+sdt8,Chain 0::141,141,GLY141,GLY,second shell | conserved | Buried,2,0.015966015,7.799422145,TRUE,FALSE,TRUE,Fixed
+sdt8,Chain 0::142,142,THR142,THR,second shell | conserved | Buried,1,-0.02404823,9.557927251,TRUE,FALSE,TRUE,Fixed
+sdt8,Chain 0::186,186,SER186,SER,second shell | Buried,2,-0.01484133,7.063407898,FALSE,FALSE,TRUE,Fixed
+sdt8,Chain 0::188,188,PHE188,PHE,second shell | Mixed_exposure,1,-1.405761518,4.089509845,FALSE,FALSE,TRUE,Fixed
+sdt8,Chain 0::197,197,MET197,MET,second shell | Buried,3,-0.61016714,4.307817817,FALSE,FALSE,TRUE,Fixed
+sdt8,Chain 0::201,201,ILE201,ILE,second shell | Mixed_exposure,2,-0.578772326,7.1808815,FALSE,FALSE,TRUE,Fixed
+sdt8,Chain 0::204,204,MET204,MET,Buried,1,-0.006714502,8.206570745,FALSE,FALSE,FALSE,Variable
+sdt8,Chain 0::205,205,ARG205,ARG,Mixed_exposure,2,-0.016476668,11.33411169,FALSE,FALSE,FALSE,Variable
+sdt8,Chain 0::287,287,SER287,SER,first shell | conserved | Mixed_exposure,3,-0.06308911,6.421823502,TRUE,TRUE,FALSE,Fixed
+sdt8,Chain 0::288,288,VAL288,VAL,second shell | conserved | Mixed_exposure,4,-0.508567161,3.738075793,TRUE,FALSE,TRUE,Fixed
+sdt8,Chain 0::364,364,ASN364,ASN,first shell | conserved | Buried,1,-0.091457,8.545893431,TRUE,TRUE,FALSE,Fixed
+sdt8,Chain 0::381,381,VAL381,VAL,second shell | conserved | Buried,1,-0.11667147,8.455653787,TRUE,FALSE,TRUE,Fixed
+sdt8,Chain 0::382,382,PHE382,PHE,second shell | conserved | Mixed_exposure,4,-0.835390769,3.183599114,TRUE,FALSE,TRUE,Fixed
+sdt8,Chain 0::383,383,ALA383,ALA,second shell | conserved | Mixed_exposure,4,-0.093282763,5.5100739,TRUE,FALSE,TRUE,Fixed
+sdt8,Chain 0::384,384,GLU384,GLU,first shell | conserved | Mixed_exposure,2,-0.352229702,8.106405139,TRUE,TRUE,FALSE,Fixed
+sdt8,Chain 0::385,385,GLN385,GLN,first shell | conserved | Buried,1,-0.052817639,8.070291281,TRUE,TRUE,FALSE,Fixed
+sdt8,Chain 0::407,407,TRP407,TRP,second shell | Mixed_exposure,3,-0.115799059,3.720268905,FALSE,FALSE,TRUE,Fixed
+sdt8,Chain 0::408,408,ARG408,ARG,Mixed_exposure,1,-0.011619818,6.874670386,FALSE,FALSE,FALSE,Variable
+sdt8,Chain 0::409,409,ARG409,ARG,second shell | Mixed_exposure,4,-0.765562854,4.428024292,FALSE,FALSE,TRUE,Fixed
+sdt8,Chain 0::410,410,TYR410,TYR,Mixed_exposure,2,-0.3510194,8.093460798,FALSE,FALSE,FALSE,Variable
+wt,Chain 0::11,11,VAL11,VAL,second shell | Buried,2,-0.083492178,3.984510303,FALSE,FALSE,TRUE,Fixed
+wt,Chain 0::13,13,ALA13,ALA,second shell | conserved | Buried,3,-0.061736471,3.889295459,TRUE,FALSE,TRUE,Fixed
+wt,Chain 0::15,15,GLY15,GLY,first shell | conserved | Buried,4,-0.026862932,6.029810905,TRUE,TRUE,FALSE,Fixed
+wt,Chain 0::16,16,HIS16,HISD,first shell | conserved | Buried,4,-0.328669546,2.731097937,TRUE,TRUE,FALSE,Fixed
+wt,Chain 0::81,81,LEU81,LEU,second shell | conserved | Mixed_exposure,4,-0.69466529,3.6163643,TRUE,FALSE,TRUE,Fixed
+wt,Chain 0::82,82,ASP82,ASP,second shell | conserved | Mixed_exposure,1,-0.079254887,8.077999949,TRUE,FALSE,TRUE,Fixed
+wt,Chain 0::84,84,VAL84,VAL,Buried,1,-0.105027586,8.189170361,FALSE,FALSE,FALSE,Variable
+wt,Chain 0::85,85,PRO85,PRO,Mixed_exposure,1,-0.030763054,11.06277466,FALSE,FALSE,FALSE,Variable
+wt,Chain 0::90,90,LEU90,LEU,second shell | Buried,4,-0.713250386,3.929452896,FALSE,FALSE,TRUE,Fixed
+wt,Chain 0::94,94,PHE94,PHE,second shell | Buried,4,-0.199476681,4.829996526,FALSE,FALSE,TRUE,Fixed
+wt,Chain 0::119,119,ASP119,ASP,second shell | conserved | Buried,1,0.125093726,6.450451612,TRUE,FALSE,TRUE,Fixed
+wt,Chain 0::120,120,MET120,MET,second shell | conserved | Mixed_exposure,4,-0.251793632,5.679727197,TRUE,FALSE,TRUE,Fixed
+wt,Chain 0::121,121,PHE121,PHE,second shell | conserved | Mixed_exposure,4,-0.825565359,3.566748202,TRUE,FALSE,TRUE,Fixed
+wt,Chain 0::140,140,HIS140,HIS,second shell | conserved | Buried,4,0.020302366,7.683265805,TRUE,FALSE,TRUE,Fixed
+wt,Chain 0::141,141,GLY141,GLY,second shell | conserved | Buried,3,0.008211626,7.799422145,TRUE,FALSE,TRUE,Fixed
+wt,Chain 0::142,142,THR142,THR,second shell | conserved | Buried,3,-0.014819093,9.557927251,TRUE,FALSE,TRUE,Fixed
+wt,Chain 0::150,150,GLU150,GLU,second shell | Mixed_exposure,1,0.054315699,11.21733427,FALSE,FALSE,TRUE,Fixed
+wt,Chain 0::186,186,SER186,SER,second shell | Buried,3,-0.152716719,7.063407898,FALSE,FALSE,TRUE,Fixed
+wt,Chain 0::187,187,PRO187,PRO,second shell | Intermediate,3,-0.065018969,7.561519742,FALSE,FALSE,TRUE,Fixed
+wt,Chain 0::188,188,PHE188,PHE,second shell | Mixed_exposure,4,-0.570963761,4.089509845,FALSE,FALSE,TRUE,Fixed
+wt,Chain 0::197,197,MET197,MET,second shell | Buried,4,-0.871335574,4.307817817,FALSE,FALSE,TRUE,Fixed
+wt,Chain 0::201,201,ILE201,ILE,second shell | Mixed_exposure,4,-0.592040092,7.1808815,FALSE,FALSE,TRUE,Fixed
+wt,Chain 0::205,205,ARG205,ARG,Mixed_exposure,2,0.017032342,11.33411169,FALSE,FALSE,FALSE,Variable
+wt,Chain 0::288,288,VAL288,VAL,second shell | conserved | Mixed_exposure,4,-0.209066278,3.738075793,TRUE,FALSE,TRUE,Fixed
+wt,Chain 0::363,363,TRP363,TRP,first shell | conserved | Buried,1,0.004196,9.346374869,TRUE,TRUE,FALSE,Fixed
+wt,Chain 0::364,364,ASN364,ASN,first shell | conserved | Buried,1,-0.016485,8.545893431,TRUE,TRUE,FALSE,Fixed
+wt,Chain 0::382,382,PHE382,PHE,second shell | conserved | Mixed_exposure,4,-0.531065754,3.183599114,TRUE,FALSE,TRUE,Fixed
+wt,Chain 0::383,383,ALA383,ALA,second shell | conserved | Mixed_exposure,4,-0.329382394,5.5100739,TRUE,FALSE,TRUE,Fixed
+wt,Chain 0::384,384,GLU384,GLU,first shell | conserved | Mixed_exposure,4,-0.346635756,8.106405139,TRUE,TRUE,FALSE,Fixed
+wt,Chain 0::385,385,GLN385,GLN,first shell | conserved | Buried,3,-0.00336,8.070291281,TRUE,TRUE,FALSE,Fixed
+wt,Chain 0::388,388,ASN388,ASN,second shell | conserved | Buried,1,0.002681,11.13327861,TRUE,FALSE,TRUE,Fixed
+wt,Chain 0::407,407,TRP407,TRP,second shell | Mixed_exposure,4,-0.513811062,3.720268905,FALSE,FALSE,TRUE,Fixed
+wt,Chain 0::409,409,ARG409,ARG,second shell | Mixed_exposure,4,-1.157813755,4.428024292,FALSE,FALSE,TRUE,Fixed

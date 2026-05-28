@@ -1,0 +1,5 @@
+﻿system,hbond_distance_cutoff_nm,total_points,points_below_cutoff,fraction_below_cutoff,percent_below_cutoff
+wt,0.35,4000,719,0.17975,17.974999999999998
+sdt3,0.35,4000,401,0.10025,10.025
+sdt5,0.35,4000,60,0.015,1.5
+sdt8,0.35,4000,140,0.035,3.5000000000000004
