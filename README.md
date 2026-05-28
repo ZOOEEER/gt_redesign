@@ -16,8 +16,6 @@ DOI: to be added after formal publication.
 
 The repository includes CSV analysis outputs, PDB/GRO structure files, PNG figure outputs, and analysis scripts.
 
-PowerPoint (`.pptx`), PyMOL session (`.pse`), and zip archive files are intentionally excluded from this public supplementary data repository.
-
 ## License
 
 This supplementary dataset is shared under the Creative Commons Attribution 4.0 International License (CC BY 4.0). See `LICENSE` for details.
