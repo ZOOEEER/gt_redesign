@@ -1,5 +1,6 @@
 # GT Redesign Supplementary Molecular Simulation Data
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20534803.svg)](https://doi.org/10.5281/zenodo.20534803)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20534816.svg)](https://doi.org/10.5281/zenodo.20534816)
+
 This repository contains supplementary data for the molecular simulation section of the manuscript:
 
 **Sequence Redesign of Glycosyltransferases for Enhanced Heterologous Expression and Glycosylation Efficiency in *Escherichia coli***
